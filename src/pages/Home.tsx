@@ -1,13 +1,6 @@
 import { Button } from "@/components/ui/button"
 import { ThemeToggle } from "@/components/theme-toggle"
-import {
-  Check,
-  Copy,
-  Download,
-  Trash2,
-  AlertCircle,
-  ArrowRight,
-} from "lucide-react"
+import { Check, Copy, Download, Trash2, ArrowRight } from "lucide-react"
 
 export function Home() {
   return (
